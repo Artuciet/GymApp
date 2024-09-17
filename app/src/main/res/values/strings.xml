@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Gym App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="gym_app">Gym App</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="history_text">History</string>
+    <string name="common_routines_text">Common Routines"</string>
+    <string name="new_routine">New Routine</string>
+
+    <string name="nav_history">nav_history</string>
+    <string name="nav_common_routines">nav_common_routines</string>
+    <string name="nav_new_routine">nav_new_routine</string>
+
+    <string name="date1">1/12/23</string>
+    <string name="textView1">Rutina de Pecho</string>
+    <string name="textView2">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView3">Rutina de Pecho</string>
+    <string name="textView4">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView5">Rutina de Pecho</string>
+    <string name="textView6">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView7">Rutina de Pecho</string>
+    <string name="textView8">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView9">Rutina de Pecho</string>
+    <string name="textView10">El Pull Over Bajo ... 4/10/3</string>
+    <string name="date2">2/12/23</string>
+    <string name="textView11">Rutina de Pecho</string>
+    <string name="textView12">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView13">Rutina de Pecho</string>
+    <string name="textView14">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView15">Rutina de Pecho</string>
+    <string name="textView16">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView17">Rutina de Pecho</string>
+    <string name="textView18">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView19">Rutina de Pecho</string>
+    <string name="textView20">El Pull Over Bajo ... 4/10/3</string>
+    <string name="date3">3/12/23</string>
+    <string name="textView21">Rutina de Pecho</string>
+    <string name="textView22">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView23">Rutina de Pecho</string>
+    <string name="textView24">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView25">Rutina de Pecho</string>
+    <string name="textView26">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView27">Rutina de Pecho</string>
+    <string name="textView28">El Pull Over Bajo ... 4/10/3</string>
+    <string name="textView29">Rutina de Pecho</string>
+    <string name="textView30">El Pull Over Bajo ... 4/10/3</string>
+
+    <string name="ready">Ready</string>
+
+</resources>

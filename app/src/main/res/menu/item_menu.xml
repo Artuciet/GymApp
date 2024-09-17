@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/nav_history"
+        android:title="@string/history_text"
+        android:icon="@drawable/ic_history"/>
+
+    <item
+        android:id="@id/nav_common_routines"
+        android:title="@string/common_routines_text"
+        android:icon="@drawable/ic_common_routines"/>
+
+    <item
+        android:id="@id/nav_new_routine"
+        android:title="@string/new_routine"
+        android:icon="@drawable/ic_new_routine"/>
+
+
+</menu>
